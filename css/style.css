@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    gap: 30px;
+    background-color: rgb(156, 130, 99);
+    justify-content: center;
+}
+
+.box1{
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+}
